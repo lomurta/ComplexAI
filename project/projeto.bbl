@@ -1,0 +1,385 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Abadi et al. 2016]{c36}
+\abntrefinfo{Abadi et al.}{ABADI et al.}{2016}
+{ABADI, M. et al. {TensorFlow}: a system for large-scale machine learning. In:
+  \emph{Proceedings of the 12th {USENIX} conference on {Operating} {Systems}
+  {Design} and {Implementation}}. USA: USENIX Association, 2016.  ({OSDI}'16),
+  p. 265--283.
+ISBN 9781931971331.}
+
+\bibitem[Armato et al. 2008]{c42}
+\abntrefinfo{Armato et al.}{ARMATO et al.}{2008}
+{ARMATO, S.~G. et al. The {Reference} {Image} {Database} to {Evaluate}
+  {Response} to {Therapy} in {Lung} {Cancer} ({RIDER}) {Project}: {A}
+  {Resource} for the {Development} of {Change} {Analysis} {Software}.
+\emph{Clinical pharmacology and therapeutics}, v.~84, n.~4, p. 448--456, out.
+  2008.
+ISSN 0009-9236.
+Dispon{\'\i}vel em:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4938843/}.}
+
+\bibitem[Bar et al. 2015]{c5}
+\abntrefinfo{Bar et al.}{BAR et al.}{2015}
+{BAR, Y. et al. Chest pathology detection using deep learning with non-medical
+  training.
+\emph{2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI)},
+  2015.}
+
+\bibitem[Beutel et al. 2000]{c1}
+\abntrefinfo{Beutel et al.}{BEUTEL et al.}{2000}
+{BEUTEL, J. et al. (Ed.). \emph{Handbook of medical imaging. {Vol}. 1:
+  {Physics} and psychophysics}. Bellingham, Wash. (1000 20th St. Bellingham WA
+  98225-6705 USA): SPIE, 2000.  ({SPIE} {Press} monograph, PM79). OCLC:
+  606655327.
+ISBN 9780819481184. Dispon{\'\i}vel em:
+  \url{https://stanford.idm.oclc.org/login?url=http://dx.doi.org/10.1117/3.832716}.}
+
+\bibitem[Clark et al. 2013]{c41}
+\abntrefinfo{Clark et al.}{CLARK et al.}{2013}
+{CLARK, K. et al. The {Cancer} {Imaging} {Archive} ({TCIA}): {Maintaining} and
+  {Operating} a {Public} {Information} {Repository}.
+\emph{Journal of Digital Imaging}, v.~26, n.~6, p. 1045--1057, dez. 2013.
+ISSN 0897-1889.
+Dispon{\'\i}vel em:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824915/}.}
+
+\bibitem[Costa, Goldberger e Peng 2002]{c32}
+\abntrefinfo{Costa, Goldberger e Peng}{COSTA; GOLDBERGER; PENG}{2002}
+{COSTA, M.; GOLDBERGER, A.~L.; PENG, C.-K. Multiscale entropy analysis of
+  complex physiologic time series.
+\emph{Physical Review Letters}, v.~89, n.~6, p. 068102, ago. 2002.
+ISSN 0031-9007.}
+
+\bibitem[Costa, Goldberger e Peng 2005]{c31}
+\abntrefinfo{Costa, Goldberger e Peng}{COSTA; GOLDBERGER; PENG}{2005}
+{COSTA, M.; GOLDBERGER, A.~L.; PENG, C.-K. Multiscale entropy analysis of
+  biological signals.
+\emph{Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics},
+  v.~71, n. 2 Pt 1, p. 021906, fev. 2005.
+ISSN 1539-3755.}
+
+\bibitem[Coy et al. 2019]{c38}
+\abntrefinfo{Coy et al.}{COY et al.}{2019}
+{COY, H. et al. Deep learning and radiomics: the utility of {Google}
+  {TensorFlow}™ {Inception} in classifying clear cell renal cell carcinoma
+  and oncocytoma on multiphasic {CT}.
+\emph{Abdominal Radiology (New York)}, v.~44, n.~6, p. 2009--2020, jun. 2019.
+ISSN 2366-0058.}
+
+\bibitem[Dewey et al. 2019]{c18}
+\abntrefinfo{Dewey et al.}{DEWEY et al.}{2019}
+{DEWEY, B.~E. et al. {DeepHarmony}: {A} deep learning approach to contrast
+  harmonization across scanner changes.
+\emph{Magnetic Resonance Imaging}, v.~64, p. 160--170, dez. 2019.
+ISSN 1873-5894.}
+
+\bibitem[Elsken, Metzen e Hutter 2019]{c24}
+\abntrefinfo{Elsken, Metzen e Hutter}{ELSKEN; METZEN; HUTTER}{2019}
+{ELSKEN, T.; METZEN, J.~H.; HUTTER, F. Neural architecture search: a survey.
+\emph{The Journal of Machine Learning Research}, v.~20, n.~1, p. 1997--2017,
+  jan. 2019.
+ISSN 1532-4435.}
+
+\bibitem[Feldman e Crutchfield 1998]{c28}
+\abntrefinfo{Feldman e Crutchfield}{FELDMAN; CRUTCHFIELD}{1998}
+{FELDMAN, D.~P.; CRUTCHFIELD, J.~P. Measures of statistical complexity: {Why}?
+\emph{Physics Letters A}, v.~238, n.~4, p. 244--252, fev. 1998.
+ISSN 0375-9601.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/S0375960197008554}.}
+
+\bibitem[Frid-Adar et al. 2018]{c8}
+\abntrefinfo{Frid-Adar et al.}{FRID-ADAR et al.}{2018}
+{FRID-ADAR, M. et al. {GAN}-based synthetic medical image augmentation for
+  increased {CNN} performance in liver lesion classification.
+\emph{Neurocomputing}, v.~321, p. 321--331, dez. 2018.
+ISSN 0925-2312.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/S0925231218310749}.}
+
+\bibitem[Glorot e Bengio 2010]{Glorot2010}
+\abntrefinfo{Glorot e Bengio}{GLOROT; BENGIO}{2010}
+{GLOROT, X.; BENGIO, Y. Understanding the difficulty of training deep
+  feedforward neural networks. In:  . JMLR Workshop and Conference Proceedings,
+  2010. p. 249--256.
+ISSN 1938-7228. Dispon{\'\i}vel em:
+  \url{https://proceedings.mlr.press/v9/glorot10a.html}.}
+
+\bibitem[Goldberger 1996]{c29}
+\abntrefinfo{Goldberger}{GOLDBERGER}{1996}
+{GOLDBERGER, A.~L. Non-linear dynamics for clinicians: chaos theory, fractals,
+  and complexity at the bedside.
+\emph{The Lancet}, v.~347, n.~9011, p. 1312--1314, maio 1996.
+ISSN 0140-6736.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/S0140673696909484}.}
+
+\bibitem[Goldberger, Peng e Lipsitz 2002]{c30}
+\abntrefinfo{Goldberger, Peng e Lipsitz}{GOLDBERGER; PENG; LIPSITZ}{2002}
+{GOLDBERGER, A.~L.; PENG, C.-K.; LIPSITZ, L.~A. What is physiologic complexity
+  and how does it change with aging and disease?
+\emph{Neurobiology of Aging}, v.~23, n.~1, p. 23--26, fev. 2002.
+ISSN 0197-4580.}
+
+\bibitem[Goodfellow et al. 2020]{c15}
+\abntrefinfo{Goodfellow et al.}{GOODFELLOW et al.}{2020}
+{GOODFELLOW, I. et al. Generative adversarial networks.
+\emph{Communications of the ACM}, v.~63, n.~11, p. 139--144, out. 2020.
+ISSN 0001-0782.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1145/3422622}.}
+
+\bibitem[Gulshan et al. 2016]{c7}
+\abntrefinfo{Gulshan et al.}{GULSHAN et al.}{2016}
+{GULSHAN, V. et al. Development and {Validation} of a {Deep} {Learning}
+  {Algorithm} for {Detection} of {Diabetic} {Retinopathy} in {Retinal} {Fundus}
+  {Photographs}.
+\emph{JAMA}, v.~316, n.~22, p. 2402--2410, dez. 2016.
+ISSN 0098-7484.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1001/jama.2016.17216}.}
+
+\bibitem[He et al. 2016]{c12}
+\abntrefinfo{He et al.}{HE et al.}{2016}
+{HE, K. et al. Deep {Residual} {Learning} for {Image} {Recognition}. In:
+  \emph{2016 {IEEE} {Conference} on {Computer} {Vision} and {Pattern}
+  {Recognition} ({CVPR})}. [S.l.: s.n.], 2016. p. 770--778.
+ISSN 1063-6919. ISSN: 1063-6919.}
+
+\bibitem[Hof 2013]{c3}
+\abntrefinfo{Hof}{HOF}{2013}
+{HOF, R.~D. \emph{Deep {Learning}}. 2013.
+Dispon{\'\i}vel em:
+  \url{https://www.technologyreview.com/technology/deep-learning/}.}
+
+\bibitem[Howard et al. 2017]{c26}
+\abntrefinfo{Howard et al.}{HOWARD et al.}{2017}
+{HOWARD, A.~G. et al. {MobileNets}: {Efficient} {Convolutional} {Neural}
+  {Networks} for {Mobile} {Vision} {Applications}.
+\emph{arXiv:1704.04861 [cs]}, abr. 2017.
+ArXiv: 1704.04861.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/1704.04861}.}
+
+\bibitem[Hu, Shen e Sun 2018]{c21}
+\abntrefinfo{Hu, Shen e Sun}{HU; SHEN; SUN}{2018}
+{HU, J.; SHEN, L.; SUN, G. Squeeze-and-{Excitation} {Networks}. In:  \emph{2018
+  {IEEE}/{CVF} {Conference} on {Computer} {Vision} and {Pattern}
+  {Recognition}}. [S.l.: s.n.], 2018. p. 7132--7141.
+ISSN 2575-7075. ISSN: 2575-7075.}
+
+\bibitem[Huang et al. 2017]{c13}
+\abntrefinfo{Huang et al.}{HUANG et al.}{2017}
+{HUANG, G. et al. Densely {Connected} {Convolutional} {Networks}. In:
+  \emph{2017 {IEEE} {Conference} on {Computer} {Vision} and {Pattern}
+  {Recognition} ({CVPR})}. [S.l.: s.n.], 2017. p. 2261--2269.
+ISSN 1063-6919. ISSN: 1063-6919.}
+
+\bibitem[Kleesiek et al. 2016]{c43}
+\abntrefinfo{Kleesiek et al.}{KLEESIEK et al.}{2016}
+{KLEESIEK, J. et al. Deep {MRI} brain extraction: {A} {3D} convolutional neural
+  network for skull stripping.
+\emph{NeuroImage}, v.~129, p. 460--469, abr. 2016.
+ISSN 1095-9572.}
+
+\bibitem[Krizhevsky, Sutskever e Hinton 2012]{c4}
+\abntrefinfo{Krizhevsky, Sutskever e Hinton}{KRIZHEVSKY; SUTSKEVER;
+  HINTON}{2012}
+{KRIZHEVSKY, A.; SUTSKEVER, I.; HINTON, G.~E. {ImageNet} {Classification} with
+  {Deep} {Convolutional} {Neural} {Networks}. In:  \emph{Advances in {Neural}
+  {Information} {Processing} {Systems}}. Curran Associates, Inc., 2012. v.~25.
+  Dispon{\'\i}vel em:
+  \url{https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html}.}
+
+\bibitem[Lee et al. 2015]{c14}
+\abntrefinfo{Lee et al.}{LEE et al.}{2015}
+{LEE, C.-Y. et al. Deeply-{Supervised} {Nets}. In:  . PMLR, 2015. p. 562--570.
+ISSN 1938-7228. Dispon{\'\i}vel em:
+  \url{https://proceedings.mlr.press/v38/lee15a.html}.}
+
+\bibitem[Lee e Kim 2018]{c37}
+\abntrefinfo{Lee e Kim}{LEE; KIM}{2018}
+{LEE, J.~H.; KIM, K.~G. Applying {Deep} {Learning} in {Medical} {Images}: {The}
+  {Case} of {Bone} {Age} {Estimation}.
+\emph{Healthcare Informatics Research}, v.~24, n.~1, p. 86--92, jan. 2018.
+ISSN 2093-3681.}
+
+\bibitem[López-Ruiz, Mancini e Calbet 1995]{c39}
+\abntrefinfo{López-Ruiz, Mancini e Calbet}{LóPEZ-RUIZ; MANCINI; CALBET}{1995}
+{LóPEZ-RUIZ, R.; MANCINI, H.~L.; CALBET, X. A statistical measure of
+  complexity.
+\emph{Physics Letters A}, v.~209, n.~5, p. 321--326, dez. 1995.
+ISSN 0375-9601.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/0375960195008675}.}
+
+\bibitem[Oktay et al. 2018]{c23}
+\abntrefinfo{Oktay et al.}{OKTAY et al.}{2018}
+{OKTAY, O. et al. \emph{Attention {U}-{Net}: {Learning} {Where} to {Look} for
+  the {Pancreas}}.
+[S.l.], 2018. ADS Bibcode: 2018arXiv180403999O Type: article. Dispon{\'\i}vel
+  em: \url{https://ui.adsabs.harvard.edu/abs/2018arXiv180403999O}.}
+
+\bibitem[Ronneberger, Fischer e Brox 2015]{c9}
+\abntrefinfo{Ronneberger, Fischer e Brox}{RONNEBERGER; FISCHER; BROX}{2015}
+{RONNEBERGER, O.; FISCHER, P.; BROX, T. U-{Net}: {Convolutional} {Networks} for
+  {Biomedical} {Image} {Segmentation}. In:  NAVAB, N. et al. (Ed.).
+  \emph{Medical {Image} {Computing} and {Computer}-{Assisted} {Intervention}
+  – {MICCAI} 2015}. Cham: Springer International Publishing, 2015. p.
+  234--241.
+ISBN 9783319245744.}
+
+\bibitem[Shin et al. 2016]{c6}
+\abntrefinfo{Shin et al.}{SHIN et al.}{2016}
+{SHIN, H.-C. et al. Deep {Convolutional} {Neural} {Networks} for
+  {Computer}-{Aided} {Detection}: {CNN} {Architectures}, {Dataset}
+  {Characteristics} and {Transfer} {Learning}.
+\emph{IEEE transactions on medical imaging}, v.~35, n.~5, p. 1285--1298, maio
+  2016.
+ISSN 1558-254X.}
+
+\bibitem[Silva et al. 2015]{c33}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2015}
+{SILVA, L. E.~V. et al. Multiscale entropy-based methods for heart rate
+  variability complexity analysis.
+\emph{Physica A: Statistical Mechanics and its Applications}, v.~422, p.
+  143--152, mar. 2015.
+ISSN 0378-4371.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/S0378437114010462}.}
+
+\bibitem[Silva et al. 2018]{c35}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2018}
+{SILVA, L. E.~V. et al. Two-dimensional multiscale entropy analysis:
+  {Applications} to image texture evaluation.
+\emph{Signal Processing}, v.~147, p. 224--232, jun. 2018.
+ISSN 0165-1684.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/S0165168418300513}.}
+
+\bibitem[Silva et al. 2016]{c34}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2016}
+{SILVA, L. E.~V. et al. Multiscale entropy analysis of heart rate variability
+  in heart failure, hypertensive, and sinoaortic-denervated rats: classical and
+  refined approaches.
+\emph{American Journal of Physiology. Regulatory, Integrative and Comparative
+  Physiology}, v.~311, n.~1, p. R150--156, jul. 2016.
+ISSN 1522-1490.}
+
+\bibitem[Simonyan e Zisserman 2015]{c10}
+\abntrefinfo{Simonyan e Zisserman}{SIMONYAN; ZISSERMAN}{2015}
+{SIMONYAN, K.; ZISSERMAN, A. Very {Deep} {Convolutional} {Networks} for
+  {Large}-{Scale} {Image} {Recognition}. In:  BENGIO, Y.; LECUN, Y. (Ed.).
+  \emph{3rd {International} {Conference} on {Learning} {Representations},
+  {ICLR} 2015, {San} {Diego}, {CA}, {USA}, {May} 7-9, 2015, {Conference}
+  {Track} {Proceedings}}. [s.n.], 2015. Dispon{\'\i}vel em:
+  \url{http://arxiv.org/abs/1409.1556}.}
+
+\bibitem[Szegedy et al. 2015]{c11}
+\abntrefinfo{Szegedy et al.}{SZEGEDY et al.}{2015}
+{SZEGEDY, C. et al. Going deeper with convolutions. In:  \emph{2015 {IEEE}
+  {Conference} on {Computer} {Vision} and {Pattern} {Recognition} ({CVPR})}.
+  [S.l.: s.n.], 2015. p.~1--9.
+ISSN 1063-6919. ISSN: 1063-6919.}
+
+\bibitem[Vaswani et al. 2017]{Vaswani2017}
+\abntrefinfo{Vaswani et al.}{VASWANI et al.}{2017}
+{VASWANI, A. et al. Attention is {All} you {Need}. In:  \emph{Advances in
+  {Neural} {Information} {Processing} {Systems}}. Curran Associates, Inc.,
+  2017. v.~30. Dispon{\'\i}vel em:
+  \url{https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html}.}
+
+\bibitem[Wang et al. 2019]{c17}
+\abntrefinfo{Wang et al.}{WANG et al.}{2019}
+{WANG, G. et al. \emph{Machine Learning for Tomographic Imaging}. IOP
+  Publishing, 2019.  (2053-2563).
+ISBN 978-0-7503-2216-4. Dispon{\'\i}vel em:
+  \url{https://dx.doi.org/10.1088/978-0-7503-2216-4}.}
+
+\bibitem[Wang et al. 2017]{c40}
+\abntrefinfo{Wang et al.}{WANG et al.}{2017}
+{WANG, X. et al. {ChestX}-{Ray8}: {Hospital}-{Scale} {Chest} {X}-{Ray}
+  {Database} and {Benchmarks} on {Weakly}-{Supervised} {Classification} and
+  {Localization} of {Common} {Thorax} {Diseases}. In:  . IEEE Computer Society,
+  2017. p. 3462--3471.
+ISBN 9781538604571.
+ISSN 1063-6919. Dispon{\'\i}vel em:
+  \url{https://www.computer.org/csdl/proceedings-article/cvpr/2017/0457d462/12OmNx8wTk9}.}
+
+\bibitem[Xu et al. 2015]{c20}
+\abntrefinfo{Xu et al.}{XU et al.}{2015}
+{XU, K. et al. Show, {Attend} and {Tell}: {Neural} {Image} {Caption}
+  {Generation} with {Visual} {Attention}. In:  . PMLR, 2015. p. 2048--2057.
+ISSN 1938-7228. Dispon{\'\i}vel em:
+  \url{https://proceedings.mlr.press/v37/xuc15.html}.}
+
+\bibitem[Yang et al. 2017]{c19}
+\abntrefinfo{Yang et al.}{YANG et al.}{2017}
+{YANG, D. et al. Automatic liver segmentation using an adversarial
+  image-to-image network. In:  DESCOTEAUX, M. et al. (Ed.). \emph{Medical Image
+  Computing and Computer Assisted Intervention - MICCAI 2017}. Springer
+  International Publishing, 2017. p. 507--515.
+ISBN 978-3-319-66179-7. Dispon{\'\i}vel em:
+  \url{https://doi.org/10.1007/978-3-319-66179-7\_58}.}
+
+\bibitem[Yang, Shi e Ni 2021]{MEDMNIST}
+\abntrefinfo{Yang, Shi e Ni}{YANG; SHI; NI}{2021}
+{YANG, J.; SHI, R.; NI, B. {MedMNIST} {Classification} {Decathlon}: {A}
+  {Lightweight} {AutoML} {Benchmark} for {Medical} {Image} {Analysis}.
+\emph{2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)}, p.
+  191--195, abr. 2021.
+ArXiv: 2010.14925.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/2010.14925}.}
+
+\bibitem[Yang et al. 2021]{Yang2021}
+\abntrefinfo{Yang et al.}{YANG et al.}{2021}
+{YANG, J. et al. {MedMNIST} v2: {A} {Large}-{Scale} {Lightweight} {Benchmark}
+  for {2D} and {3D} {Biomedical} {Image} {Classification}.
+\emph{arXiv:2110.14795 [cs, eess]}, out. 2021.
+ArXiv: 2110.14795.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/2110.14795}.}
+
+\bibitem[Yi, Walia e Babyn 2019]{c16}
+\abntrefinfo{Yi, Walia e Babyn}{YI; WALIA; BABYN}{2019}
+{YI, X.; WALIA, E.; BABYN, P. Generative adversarial network in medical
+  imaging: {A} review.
+\emph{Medical Image Analysis}, v.~58, p. 101552, dez. 2019.
+ISSN 1361-8415.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/S1361841518308430}.}
+
+\bibitem[Zhang et al. 2019]{c22}
+\abntrefinfo{Zhang et al.}{ZHANG et al.}{2019}
+{ZHANG, H. et al. Self-{Attention} {Generative} {Adversarial} {Networks}. In:
+  . PMLR, 2019. p. 7354--7363.
+ISSN 2640-3498. Dispon{\'\i}vel em:
+  \url{https://proceedings.mlr.press/v97/zhang19d.html}.}
+
+\bibitem[Zhang et al. 2018]{c27}
+\abntrefinfo{Zhang et al.}{ZHANG et al.}{2018}
+{ZHANG, X. et al. {ShuffleNet}: {An} {Extremely} {Efficient} {Convolutional}
+  {Neural} {Network} for {Mobile} {Devices}. In:  \emph{2018 {IEEE}/{CVF}
+  {Conference} on {Computer} {Vision} and {Pattern} {Recognition}}. [S.l.:
+  s.n.], 2018. p. 6848--6856.
+ISSN 2575-7075. ISSN: 2575-7075.}
+
+\bibitem[Zhu et al. 2019]{c25}
+\abntrefinfo{Zhu et al.}{ZHU et al.}{2019}
+{ZHU, Z. et al. V-{NAS}: {Neural} {Architecture} {Search} for {Volumetric}
+  {Medical} {Image} {Segmentation}. In:  \emph{2019 {International}
+  {Conference} on {3D} {Vision} ({3DV})}. [S.l.: s.n.], 2019. p. 240--248.
+ISSN 2475-7888. ISSN: 2475-7888.}
+
+\bibitem[Zou et al. 2004]{c2}
+\abntrefinfo{Zou et al.}{ZOU et al.}{2004}
+{ZOU, K.~H. et al. Statistical validation of image segmentation quality based
+  on a spatial overlap index1: scientific reports.
+\emph{Academic Radiology}, Elsevier, v.~11, n.~2, p. 178--189, fev. 2004.
+ISSN 1076-6332, 1878-4046.
+Dispon{\'\i}vel em:
+  \url{https://www.academicradiology.org/article/S1076-6332(03)00671-8/fulltext}.}
+
+\end{thebibliography}

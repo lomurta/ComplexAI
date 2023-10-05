@@ -1,0 +1,57 @@
+\backcite {c1}{{1}{1}{chapter.1}}
+\backcite {c3}{{1}{1}{chapter.1}}
+\backcite {c4}{{1}{1}{chapter.1}}
+\backcite {c5}{{1}{1}{chapter.1}}
+\backcite {c6,c7}{{1}{1}{chapter.1}}
+\backcite {c6,c7}{{1}{1}{chapter.1}}
+\backcite {c2}{{2}{1.1}{section.1.1}}
+\backcite {c8}{{3}{1.1}{section.1.1}}
+\backcite {c9}{{3}{1.1}{section.1.1}}
+\backcite {c4}{{3}{1.2}{section.1.2}}
+\backcite {c10}{{3}{1.2}{section.1.2}}
+\backcite {c11}{{3}{1.2}{section.1.2}}
+\backcite {c12}{{3}{1.2}{section.1.2}}
+\backcite {c13}{{3}{1.2}{section.1.2}}
+\backcite {c9}{{3}{1.2}{section.1.2}}
+\backcite {c14}{{3}{1.2}{section.1.2}}
+\backcite {c15}{{3}{1.2}{section.1.2}}
+\backcite {c16}{{3}{1.2}{section.1.2}}
+\backcite {c17}{{3}{1.2}{section.1.2}}
+\backcite {c18}{{3}{1.2}{section.1.2}}
+\backcite {c19}{{3}{1.2}{section.1.2}}
+\backcite {c20}{{3}{1.2}{section.1.2}}
+\backcite {c21}{{3}{1.2}{section.1.2}}
+\backcite {c22}{{3}{1.2}{section.1.2}}
+\backcite {c23}{{3}{1.2}{section.1.2}}
+\backcite {c24}{{4}{1.2}{section.1.2}}
+\backcite {c25}{{4}{1.2}{section.1.2}}
+\backcite {c26, c27}{{4}{1.2}{section.1.2}}
+\backcite {c26, c27}{{4}{1.2}{section.1.2}}
+\backcite {c28}{{4}{1.3}{section.1.3}}
+\backcite {c29, c30, c31}{{4}{1.3}{section.1.3}}
+\backcite {c29, c30, c31}{{4}{1.3}{section.1.3}}
+\backcite {c29, c30, c31}{{4}{1.3}{section.1.3}}
+\backcite {c32,c31}{{4}{1.3}{section.1.3}}
+\backcite {c32,c31}{{4}{1.3}{section.1.3}}
+\backcite {c33, c34}{{5}{1.3}{section.1.3}}
+\backcite {c33, c34}{{5}{1.3}{section.1.3}}
+\backcite {c35}{{5}{1.3}{section.1.3}}
+\backcite {c36}{{7}{3}{chapter.3}}
+\backcite {c37, c38}{{7}{3}{chapter.3}}
+\backcite {c37, c38}{{7}{3}{chapter.3}}
+\backcite {c39}{{8}{3.2}{section.3.2}}
+\backcite {c7, c8}{{8}{3.2}{section.3.2}}
+\backcite {c7, c8}{{8}{3.2}{section.3.2}}
+\backcite {c4}{{9}{3.2}{figure.3.2}}
+\backcite {Yang2021}{{12}{3.4}{section.3.4}}
+\backcite {c40}{{12}{3.4}{section.3.4}}
+\backcite {c41}{{12}{3.4}{section.3.4}}
+\backcite {c42}{{12}{3.4}{section.3.4}}
+\backcite {c43}{{12}{3.4}{section.3.4}}
+\backcite {c11}{{13}{3.5}{section.3.5}}
+\backcite {c12}{{13}{3.5}{section.3.5}}
+\backcite {Vaswani2017}{{13}{3.5}{section.3.5}}
+\backcite {c9}{{13}{3.5}{section.3.5}}
+\backcite {c4}{{13}{3.5}{section.3.5}}
+\backcite {Glorot2010}{{14}{4}{figure.4.3}}
+\backcite {MEDMNIST}{{15}{3}{figure.4.3}}
